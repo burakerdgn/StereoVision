@@ -1,0 +1,15 @@
+OUTPUT_DIRECTORY       = /media/nvidia/32B270B0B2707A65/burak/stereo/project-library/docs/
+
+INPUT                  = /media/nvidia/32B270B0B2707A65/burak/stereo/project-library \
+			/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/docs
+
+PROJECT_NAME           = "V-disparity"
+
+FILE_PATTERNS          = *.cpp \
+                         *.h \
+
+GENERATE_HTML          = YES
+
+GENERATE_LATEX         = NO
+
+EXTRACT_ALL            = YES
