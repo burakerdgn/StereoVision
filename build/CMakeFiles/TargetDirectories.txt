@@ -1,0 +1,6 @@
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/edit_cache.dir
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/rebuild_cache.dir
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/doc_doxygen.dir
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/demo_realsense.dir
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/demo_zed.dir
+/media/nvidia/32B270B0B2707A65/burak/stereo/project-library/build/CMakeFiles/demo_basic.dir
