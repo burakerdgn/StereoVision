@@ -3,8 +3,8 @@ StereoVision Project with ZED &amp; Intel RealSense Camera
 
 ## Project purpose
 
-- The purpose was creating image segmentation and obtaining [stixel](https://github.com/gishi523/stixel-world) image with stereo camera
-- Example demonstration of [a stixel project](https://www.youtube.com/watch?v=i8dcQYPC2kg)
+- The purpose was creating image segmentation and obtaining [stixel](https://github.com/tkwoo/StereoVisionforADAS) image with stereo camera
+- Example demonstration of [a stixel project](https://www.youtube.com/watch?v=8oB7MsPZG8c)
 
 ## Hardware Tools
 - [ZED Mini](https://www.stereolabs.com/zed-mini/)
