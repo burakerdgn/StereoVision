@@ -21,6 +21,9 @@ StereoVision Project with ZED &amp; Intel RealSense Camera
 - [ROS](https://www.ros.org/)
 - [OpenCV](https://opencv.org/)
 
+## Programming Language
+- C++
+
 
 ##
 The image below shows an example with ZED camera & Jetson TX2 how to seperate the ground and decide horizon line at the image. The image was obtained by creating v-disp image with Opencv histogram function
